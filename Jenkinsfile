@@ -16,7 +16,7 @@ pipeline {
         }
             stage ('Build') {
             steps {
-                sh 'mvn -Dmaven.test.skip=true clean package -P MYSQL' 
+                sh 'mvn -Dmaven.test.skip=true clean package' 
             }
         }
 			stage ('Build image') {
