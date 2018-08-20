@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
-    <h2><fmt:message key="Kubernetes Demo for CICD Shaun Robe"/></h2>
+    <h2><fmt:message key="Kubernetes Demo for CICD 20 Aug"/></h2>
     <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
     <img src="${petsImage}"/>
 
