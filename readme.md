@@ -1,4 +1,6 @@
 # Spring PetClinic Sample Application
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2FtestPet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2FtestPet?ref=badge_shield)
+
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
@@ -193,3 +195,7 @@ Here is a list of them:
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgodeepakm%2FtestPet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgodeepakm%2FtestPet?ref=badge_large)
